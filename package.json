@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Alpha-Centaui/AirBnb/issues"
   },
-  "homepage": "https://github.com/Alpha-Centaui/AirBnb#readme"
+  "homepage": "https://github.com/Alpha-Centaui/AirBnb#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
